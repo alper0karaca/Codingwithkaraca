@@ -1,37 +1,21 @@
-# My Portfolio
-Profilime Hoş geldiniz! Bu projede yeteneklerim, projelerim, deneyimlerim ve kendimi tanıtmak için bilgiler sunmaktadır. 
+### Hi there 👋
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" height="250">
 
 
-### Weblink: [Siteye Git](https://codingwithkaraca.netlify.app)
-## Görüntüler:
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss1.png?alt=media&token=104d38ab-1075-459a-bceb-94e24d47e948"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss2.png?alt=media&token=b2624531-d8c7-4c5e-b03c-db4ad1d8787f"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss3.png?alt=media&token=25ab7620-0de6-474c-8ff0-4a67c123943a"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss4.png?alt=media&token=ecfaad43-cd8a-4498-8382-724fd623a69c"/>
-<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss5.png?alt=media&token=6e639adb-bfdd-4c82-abcd-7314c573acc0"/>
+# 💫 About Me:
+🔭 I’m currently working on  **Java,Spring Boot, Html-Css-Javascript, Boostrap, TailwindCSS**
 
 
-## Özellikler
-- Hakkımda : Kendimi tanıtan kısa bir bölüm.
-- Projeler : Geliştirdiğim ve daha geliştirmekte olduğum projelerden oluşan bir bölüm. 
-- Yetenekler : Teknik beceri ve yetenekleri gösteren bir bölüm.
-- CV : CV indirmek için link.
-- İletişim: Mesaj göndermek için bir email formu.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alper0karaca/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper0karaca/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alperkaraca7) 
 
-## Kullandığım Teknolojiler
-- React.js:
-- HTML5 & CSS3
-- JavaScript: 
-- Style-Components
-- Git
-- GitHub Pages
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Html-Css-Javascript](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 
-## Kurulum için
-Portfolio sitesini lokalde çalıştırmak için adımları takip edin:
 
-1. Repository'i oluşturduğunuz klasöre klonlayın: `git clone https://github.com/rishavchanda/`
-2. Proje dizinine gidin: `cd rishav-chanda-portfolio`
-3. Bağımlılıkları yükleyin: `npm install`
-4. Local sunucuyu başlatın: `npm start`
-5. Linki tarayıcıda açın: `http://localhost:3000`
+---
+[![](https://visitcount.itsvg.in/api?id=alper0karaca&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
