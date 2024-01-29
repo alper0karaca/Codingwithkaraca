@@ -88,22 +88,22 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Rishav Chanda</Logo>
+        <Logo>Alper Karaca</Logo>
         <Nav>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          <NavLink href="#about">Hakkımda</NavLink>
+          <NavLink href="#skills">Yetenekler</NavLink>
+          <NavLink href="#experience">Deneyim</NavLink>
+          <NavLink href="#projects">Projeler</NavLink>
+          <NavLink href="#education">Eğitim</NavLink>
         </Nav>
         <SocialMediaIcons>
+          <SocialMediaIcon href={Bio.insta1} target="display"><InstagramIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.insta2} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Rishav Chanda. All rights reserved.
+          &copy; 2024 Codingwithkaraca. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

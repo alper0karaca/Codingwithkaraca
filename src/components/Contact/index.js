@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import { useRef } from "react";
-import emailjs from "@emailjs/browser";
 import { Snackbar } from "@mui/material";
 
 const Container = styled.div`
@@ -150,17 +149,17 @@ const Contact = () => {
   return (
     <Container>
       <Wrapper>
-        <Title>Contact</Title>
+        <Title>İletişim</Title>
         <Desc>
-          Feel free to reach out to me for any questions or opportunities!
+          Sorularınız veya fırsatlar için bana her zaman ulaşmaktan çekinmeyin!
         </Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
-          <ContactTitle>Email Me 🚀</ContactTitle>
-          <ContactInput placeholder="Your Email" name="from_email" />
-          <ContactInput placeholder="Your Name" name="from_name" />
-          <ContactInput placeholder="Subject" name="subject" />
-          <ContactInputMessage placeholder="Message" rows="4" name="message" />
-          <ContactButton type="submit" value="Send" />
+          <ContactTitle>Email Gönder 🚀</ContactTitle>
+          <ContactInput placeholder="Mail" name="from_email" />
+          <ContactInput placeholder="İsim" name="from_name" />
+          <ContactInput placeholder="Konu" name="subject" />
+          <ContactInputMessage placeholder="Mesajınız." rows="4" name="message" />
+          <ContactButton type="submit" value="Gönder" />
         </ContactForm>
         <Snackbar
           open={open}
