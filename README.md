@@ -2,14 +2,13 @@
 Profilime Hoş geldiniz! Bu projede yeteneklerim, projelerim, deneyimlerim ve kendimi tanıtmak için bilgiler sunmaktadır. 
 
 
-### Weblink: [Live Website](//link)
+### Weblink: [Siteye Git](https://codingwithkaraca.netlify.app)
 ## Görüntüler:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss1.png?alt=media&token=104d38ab-1075-459a-bceb-94e24d47e948"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss2.png?alt=media&token=b2624531-d8c7-4c5e-b03c-db4ad1d8787f"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss3.png?alt=media&token=25ab7620-0de6-474c-8ff0-4a67c123943a"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss4.png?alt=media&token=ecfaad43-cd8a-4498-8382-724fd623a69c"/>
+<img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/web-project-87ff5.appspot.com/o/portfolioss5.png?alt=media&token=6e639adb-bfdd-4c82-abcd-7314c573acc0"/>
 
 
 ## Özellikler
